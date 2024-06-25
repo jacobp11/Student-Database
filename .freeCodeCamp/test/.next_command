@@ -72,3 +72,4 @@ psql --username=freecodecamp --dbname=postgres
 ./insert_data.sh
 ./insert_data.sh
 __vsc_prompt_cmd_original
+ls --color=auto
